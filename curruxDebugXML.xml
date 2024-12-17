@@ -1,0 +1,25 @@
+<cameras>
+    <camera>
+        <id>3</id>
+        <title>axis</title>
+        <signal_id />
+        <lanes>
+            <lane>
+                <lane_id>3</lane_id>
+                <title>train</title>
+                <status>
+                    <present>True</present>
+                    <duration>562231</duration>
+                </status>
+            </lane>
+            <lane>
+                <lane_id>4</lane_id>
+                <title>bike </title>
+                <status>
+                    <present>True</present>
+                    <duration>562223</duration>
+                </status>
+            </lane>
+        </lanes>
+    </camera>
+</cameras>
